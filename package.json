@@ -1,0 +1,12 @@
+{
+  "name": "founder-ops",
+  "version": "1.0.0",
+  "description": "The boring stuff that kills startups — legal templates, hiring frameworks, and retention playbooks for Claude Code",
+  "keywords": ["claude-code", "skills", "legal", "hiring", "retention", "startup", "compliance", "ops"],
+  "author": "ORBWEVA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ORBWEVA/founder-ops.git"
+  }
+}
