@@ -1,0 +1,9 @@
+{
+  "name": "founder-ops",
+  "owner": {"name": "ORBWEVA"},
+  "plugins": [
+    {"name":"hiring","source":".","description":"Hiring skill for startups. Use when user needs job descriptions, interview scorecards, structured interview questions, or offer letter templates. Triggers on \"job description\", \"hiring\", \"intervi","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/founder-ops"},
+    {"name":"legal-essentials","source":".","description":"Legal templates and compliance checklists for startups. Use when user needs terms of service, privacy policy, contractor agreements, or compliance guidance. Triggers on \"terms of service\", \"privacy","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/founder-ops"},
+    {"name":"retention","source":".","description":"Customer retention and lifecycle skill. Use when user needs lifecycle email sequences, NPS/CSAT survey design, cohort analysis, or churn reduction strategies. Triggers on \"retention\", \"lifecycle em","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/founder-ops"}
+  ]
+}
